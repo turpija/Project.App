@@ -24,6 +24,7 @@ namespace Project.Code
 
         static string GenerateOIB()
         {
+            //Console.WriteLine("GENEREATOROAIADSFODIF");
             var num = "";
             var random = new Random();
             for (int i = 0; i < 10; i++)
